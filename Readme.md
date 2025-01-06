@@ -7,7 +7,7 @@ This repository contains a list of all the projects completed during my manual t
 |--------------|-------------|------------|
 | App.vwo.com    | Tested modules of a web application for functionality and usability. | JIRA, Excel, Zephyr Scale |
 | E-Commerce     | Tested module of a web application for functionality and usability. |JIRA, Excel, Zephyr Scale |
-
+| Restful Booker API Testing    | Tested the API to make sure it works well and is reliable and secure | Postman |
 
 ## Getting Started
 
